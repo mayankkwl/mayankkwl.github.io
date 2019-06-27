@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c29667bc566884e878009b20e4718ea2",
+    "revision": "9b673ed7860f155aca096cfc721b4f77",
     "url": "/index.html"
   },
   {
-    "revision": "2a4380300fbdadb4691b",
-    "url": "/static/css/main.82f86282.chunk.css"
+    "revision": "135552a06ce295c30609",
+    "url": "/static/css/main.8fd22745.chunk.css"
   },
   {
-    "revision": "0bf38b2318729ccba96b",
-    "url": "/static/js/2.d00015fb.chunk.js"
+    "revision": "ee97d084233ae689446a",
+    "url": "/static/js/2.7c8a10b4.chunk.js"
   },
   {
-    "revision": "2a4380300fbdadb4691b",
-    "url": "/static/js/main.504f402f.chunk.js"
+    "revision": "135552a06ce295c30609",
+    "url": "/static/js/main.2af99e5f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -38,13 +38,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a9e6ce67ddae2da0045538c14b36013c",
     "url": "/static/media/Carnas-Thin.a9e6ce67.otf"
-  },
-  {
-    "revision": "1b8d76d369412c6dc7a05f8de8170dd7",
-    "url": "/static/media/login-image.1b8d76d3.png"
-  },
-  {
-    "revision": "71ebf319474db2ecc9cad079ef9f34bd",
-    "url": "/static/media/spinner.71ebf319.gif"
   }
 ]);
